@@ -1,17 +1,17 @@
 class Neaps < Formula
   desc "Tide prediction command line interface"
   homepage "https://github.com/openwatersio/neaps"
-  version "@neaps/cli@0.1.0"
+  version "0.1.0"
   license "MIT"
 
   on_macos do
     url "https://github.com/openwatersio/neaps/releases/download/@neaps/cli@0.1.0/neaps-darwin-arm64.tar.gz"
-    sha256 "5b26e2d01c60a4c5cdec1d2db8ec65537eb6a8afe6c7e5015082da575c35a3ef"
+    sha256 "6d9114800793b68e777b4f4f93d0e281e1d3e5bc049686b7098fee1105a62df2"
   end
 
   on_linux do
     url "https://github.com/openwatersio/neaps/releases/download/@neaps/cli@0.1.0/neaps-linux-x64.tar.gz"
-    sha256 "3f7e88c6f26f71a52fa0367dfdc85c55d10da8186f67523b60b8841a30dbc7e0"
+    sha256 "8feb583918a94f757ff95483d55d4e7ae058c6d7425ab1a1dab3eb9bec627532"
   end
 
   def install

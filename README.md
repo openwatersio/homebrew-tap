@@ -2,6 +2,11 @@
 
 Homebrew formula for installing [slackwater](https://github.com/openwatersio/slackwater), a command line interface for tide and current predictions.
 
+## Formulae
+
+- `slackwater`: command line interface for tide and current predictions
+- `tile57`: nautical chart engine that turns IHO S-101 and S-57 charts into tiles, PNG, and PDF
+
 ## Install
 
 ```sh

@@ -66,4 +66,4 @@ Pre-built binaries are also available on the [GitHub Releases](https://github.co
 
 ## License
 
-MIT
+The formulae are © Open Water Software, LLC and [MIT](LICENSE). Each formula installs software under that software's own license.
